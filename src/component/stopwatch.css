@@ -1,0 +1,40 @@
+.timer {
+    background-color: blanchedalmond;
+    height: 150px;
+    width: 380px;
+    text-align: center;
+    margin: 30vh auto 50px;
+    padding-top: 40px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px rgb(60, 47, 28);
+  }
+  
+  span {
+    font-size: 4rem;
+    letter-spacing: 5px;
+    font-weight: 700;
+  }
+  
+  .control {
+    background-color: bisque;
+    padding-top: 10px;
+    width: 250px;
+    height: 40px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px rgb(60, 47, 28);
+  }
+  
+  button {
+    width: 80px;
+    margin: auto 20px;
+    background-color: chocolate;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    box-shadow: 3px 3px 3px 3px rgb(60, 47, 28);
+    background-color: black;
+    padding-top: 2px;
+  }
